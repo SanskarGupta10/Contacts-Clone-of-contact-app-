@@ -1,0 +1,4 @@
+com/example/contacts/ExampleInstrumentedTest.java
+ com.example.contacts.ExampleInstrumentedTest
+com/example/contacts/test/BuildConfig.java
+ com.example.contacts.test.BuildConfig
